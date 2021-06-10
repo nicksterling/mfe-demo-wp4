@@ -24,6 +24,7 @@
   "dependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "single-spa": "^5.9.3",
     "single-spa-react": "^4.1.2"
   }
 }

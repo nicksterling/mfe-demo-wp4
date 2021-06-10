@@ -3373,6 +3373,11 @@ single-spa-react@^4.1.2:
   resolved "http://localhost:4873/single-spa-react/-/single-spa-react-4.1.2.tgz"
   integrity sha512-vZASXKByp+Qc2pZEtxA8lRnI5k3S7pbNXYKaM9xWHMvFvpf9Igsyw69i/DZLRomjGJMi6QQKoENcsEtn9UWIGQ==
 
+single-spa@^5.9.3:
+  version "5.9.3"
+  resolved "https://registry.yarnpkg.com/single-spa/-/single-spa-5.9.3.tgz#2d151cbb3b273629a5b27b30a3b8ca847dcba4c5"
+  integrity sha512-qMGraRzIBsodV6569Fob4cQ4/yQNrcZ5Achh3SAQDljmqUtjAZ7BAA7GAyO/l5eizb7GtTmVq9Di7ORyKw82CQ==
+
 snapdragon-node@^2.0.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/snapdragon-node/-/snapdragon-node-2.1.1.tgz"
